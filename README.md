@@ -1,4 +1,3 @@
-![Hammad Iftikhar Image](https://avatars.githubusercontent.com/u/69103711?v=4 "Me")
 - 👋 Hi, I’m [Hammad Iftikhar](https://github.com/hammadiftikhar82)
 - 🌱 I’m currently living in Pakistan.
 - 👀 I’m interested in NodeJS, PHP, JS, Front-end development, Flutter, ML, Computer Hardware.
