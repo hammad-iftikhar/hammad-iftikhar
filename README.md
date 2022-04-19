@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Hammad Iftikhar](https://github.com/hammadiftikhar82)
 - 💼 I'm Co-Founder & Chief Technology Officer (CTO) of [Naxotop Pvt. Ltd.](https://github.com/naxotop)
-- 😊 I'm software engineer, technology enthusiastic, music junkie.
+- 😊 I'm software engineer, technology enthusiastic and music junkie.
 - 📫 How to reach me through my [📪](mailto:hammad@naxotop.com)
 
 <!---
