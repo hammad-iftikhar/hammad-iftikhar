@@ -3,7 +3,6 @@
 - 🌱 I’m currently living in Pakistan.
 - 👀 I’m interested in NodeJS, PHP, JS, Front-end development, Flutter, ML, Computer Hardware.
 - 🌱 I’m currently learning Computer Hardware architecture.
-- 💞️ I’m looking to collaborate on NodeJS, PHP.
 - 📫 How to reach me through my [📪](mailto:hammad@naxotop.com)
 
 <!---
