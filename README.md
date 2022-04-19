@@ -1,8 +1,6 @@
 - 👋 Hi, I’m [Hammad Iftikhar](https://github.com/hammadiftikhar82)
 - 💼 I'm Co-Founder & Chief Technology Officer of [Naxotop Pvt. Ltd.](https://github.com/naxotop)
-- 🌱 I’m currently living in Pakistan.
-- 👀 I’m interested in NodeJS, PHP, JS, Front-end development, Flutter, ML, Computer Hardware.
-- 🌱 I’m currently learning Computer Hardware architecture.
+- 😊 I'm software engineer, technology enthusiastic, music junkie.
 - 📫 How to reach me through my [📪](mailto:hammad@naxotop.com)
 
 <!---
