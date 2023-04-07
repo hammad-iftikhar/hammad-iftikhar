@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [Hammad Iftikhar](https://github.com/hammadiftikhar82)
-- 💼 I'm Chief Technology Officer (CTO) of [Naxotop Pvt. Ltd.](https://naxotop.com)
 - 😊 I'm software engineer, technology enthusiastic and music junkie.
-- 📫 How to reach me through my [📪](mailto:hammad@naxotop.com)
+- 📫 How to reach me through my [📪](mailto:hammad.iftikhar723@gmail.com)
 
 <!---
 HammadIftikhar82/HammadIftikhar82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
