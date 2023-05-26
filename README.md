@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Hammad Iftikhar](https://github.com/hammadiftikhar82)
-- 😊 I'm software engineer, technology enthusiastic and music junkie.
+- 😊 I'm Full Stack Developer, technology enthusiastic and music junkie.
 - 📫 How to reach me through my [📪](mailto:hammad.iftikhar723@gmail.com)
 
 <!---
