@@ -12,7 +12,7 @@
 
 - I also have experience as a Data Analyst and have worked with BI tools such as **Looker**.
 
-- I’m currently learning **C++ and System Design**
+- I’m currently learning **C++, Design Patterns and System Design**
 
 - My most recent project is a CXXServer. It is lightweight implementation of HTTP server in C++. [CXXServer](https://github.com/hammad-iftikhar/CXXServer)
 
