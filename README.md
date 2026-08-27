@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk5ZWtsc29ubDdtMTQxdDlvb2J2Nzh1eGtpbXlhajV4cjc3ZHNwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="postgresql" width="700" /> 
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Iftikhar</h1>
-<h3 align="center">"Passionate Software Engineer"</h3>
+<h3 align="center">"Software Engineer"</h3>
 
 <h2 align = "left">About Me:</h2>
 
